@@ -10,6 +10,7 @@ For the force, on the top of the trianlge it's very red which indicates that it'
 # Deflection (test 2)
 
 # Force (Test 2)
+![force2](images/force2.png)
 There was a bunch of red on the top part of the beam but we changed it by adding a triangle to it. By adding this triangle we reduced the amount of redness and the top part is mosty green now. Which means that the beam should be more sturdy and stiff and won't break as easy.
 
 # Link to the onshape
