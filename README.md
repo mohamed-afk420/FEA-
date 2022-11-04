@@ -8,7 +8,8 @@ The beginning of the block is really bendy and I don't know if that's good or ba
 ![force](images/force.png)
 For the force, on the top of the trianlge it's very red which indicates that it's a weak point and probably one of the parts that're going to break. Also all along the top part it's green and and looks very weak, We're probably going to just make it better and stronger whether or not that's going to make a difference. For the redesigned we're going to add a triangle to help make the top part stronger so the redness going away.
 # Deflection (test 2)
-
+![Displace2](images/Displace2.png)
+The deflection has stayed the same but I feel like it's gotten better and won't break that easily. I don't if it's better to be really bendable because ours isn't that bendable but I think it's good to havbe a sturdy beam and that's what we created.
 # Force (Test 2)
 ![force2](images/force2.png)
 There was a bunch of red on the top part of the beam but we changed it by adding a triangle to it. By adding this triangle we reduced the amount of redness and the top part is mosty green now. Which means that the beam should be more sturdy and stiff and won't break as easy.
